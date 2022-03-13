@@ -1,8 +1,14 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('heading should always be there', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  const heading = screen.getByText(/Name | Mantel Brand | Favourite Food | Last show watched/i);
+  expect(heading).toBeInTheDocument();
+});
+
+test('page renders correctly', () => {
+  render(<App />);
+  const page = render.create(<App />).toJSON();
+  expect(page).toMatchSnapshot();
 });
