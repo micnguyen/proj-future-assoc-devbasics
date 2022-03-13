@@ -1,8 +1,8 @@
-name: Tests
+name: Build and Test
 on: [push]
 
 jobs:
-  test-project:
+  build-and-test:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code

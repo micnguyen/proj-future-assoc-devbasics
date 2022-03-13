@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`page renders correctly 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Name | Mantel Brand | Favourite Food | Last show watched
+    </p>
+    <p>
+      Michael Nguyen | DigIO | Steak | Tinder Swindler
+    </p>
+  </header>
+</div>
+`;
