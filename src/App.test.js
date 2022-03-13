@@ -1,5 +1,6 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
+import renderer from 'react-test-renderer';
 
 test('heading should always be there', () => {
   render(<App />);
@@ -9,6 +10,6 @@ test('heading should always be there', () => {
 
 test('page renders correctly', () => {
   render(<App />);
-  const page = render.create(<App />).toJSON();
+  const page = renderer.create(<App />).toJSON();
   expect(page).toMatchSnapshot();
 });
