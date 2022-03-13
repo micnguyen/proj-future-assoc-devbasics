@@ -1,7 +1,5 @@
-on:
-  pull_request:
-    branches:    
-      - 'feature/**'
+name: Tests
+on: [push]
 
 jobs:
   test-project:
