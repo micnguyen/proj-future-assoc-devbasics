@@ -36,6 +36,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Olly Wilson | DigIO | Homemade Pizza | The Book of Boba Fett
     </p>
+    <p>
+      Edward Astbury | Azenix | Curry | Louis Theroux
+    </p>
   </header>
 </div>
 `;
