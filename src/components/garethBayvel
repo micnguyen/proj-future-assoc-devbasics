@@ -1,0 +1,5 @@
+import React from "react";
+
+export const GarethBayvel = () => {
+  return <p>Gareth Bayvel | ELIIZA | Grilld | Community</p>;
+};
