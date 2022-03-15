@@ -31,10 +31,9 @@ exports[`page renders correctly 1`] = `
       Ruhaab Sheikh | CMD | Biryani | Formula 1: Drive to Survive
     </p>
     <p>
-      Michael Nguyen | DigIO | Steak | Tinder Swindler
-    </p>
-    <p>
       Christian Torrisi | DigIO | Lasagna | Peaky Blinders
+    </p>
+      Nauvoo Perez | Kasna | Currently: Bubble Tea | Miss Fisher's Murder Mysteries
     </p>
   </header>
 </div>
