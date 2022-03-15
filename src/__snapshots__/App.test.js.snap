@@ -18,6 +18,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Michael Nguyen | DigIO | Steak | Tinder Swindler
     </p>
+    <p>
+      Ethan Moliver | CMD | Spicy char kway teow | Community
+    </p>
   </header>
 </div>
 `;
