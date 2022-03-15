@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
+import { NauvooPerez } from './components/NauvooPerez/NauvooPerez';
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Name | Mantel Brand | Favourite Food | Last show watched</p>
-        <MichaelNguyen /> 
+        <NauvooPerez /> 
       </header>
     </div>
   );
