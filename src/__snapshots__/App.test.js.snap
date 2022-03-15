@@ -15,8 +15,12 @@ exports[`page renders correctly 1`] = `
     <p>
       Name | Mantel Brand | Favourite Food | Last show watched
     </p>
+    z
     <p>
       Michael Nguyen | DigIO | Steak | Tinder Swindler
+    </p>
+    <p>
+      Kosta Barba| CMD | Pasta | Parks and Rec
     </p>
   </header>
 </div>
