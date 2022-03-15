@@ -33,6 +33,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Nauvoo Perez | Kasna | Currently: Bubble Tea | Miss Fisher's Murder Mysteries
     </p>
+    <p>
+      Olly Wilson | DigIO | Homemade Pizza | The Book of Boba Fett
+    </p>
   </header>
 </div>
 `;
