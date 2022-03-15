@@ -6,6 +6,7 @@ import { EthanMoliver } from "./components/EthanMoliver/EthanMoliver";
 import { DanielChegwidden } from './components/DanielChegwidden/DanielChegwidden';
 import { RuhaabSheikh } from "./components/RuhaabSheikh/RuhaabSheikh";
 import { NauvooPerez } from './components/NauvooPerez/NauvooPerez';
+import { OllyWilson } from "./components/OllyWilson/OllyWilson";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <DanielChegwidden /> 
         <RuhaabSheikh />
         <NauvooPerez /> 
+        <OllyWilson />
       </header>
     </div>
   );
