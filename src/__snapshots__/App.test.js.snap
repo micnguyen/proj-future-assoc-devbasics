@@ -21,6 +21,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Adam Schlicht | Kasna | Sultana Bran | Flight of the Conchords
     </p>
+    <p>
+      Ethan Moliver | CMD | Spicy char kway teow | Community
+    </p>
   </header>
 </div>
 `;
