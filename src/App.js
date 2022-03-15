@@ -5,6 +5,8 @@ import { AdamSchlicht } from './components/AdamSchlicht/AdamSchlicht';
 import { EthanMoliver } from "./components/EthanMoliver/EthanMoliver";
 import { DanielChegwidden } from './components/DanielChegwidden/DanielChegwidden';
 import { RuhaabSheikh } from "./components/RuhaabSheikh/RuhaabSheikh";
+import { ChristianTorrisi } from './components/ChristianTorrisi/ChristianTorrisi';
+
 import { NauvooPerez } from './components/NauvooPerez/NauvooPerez';
 import { OllyWilson } from "./components/OllyWilson/OllyWilson";
 
@@ -19,6 +21,8 @@ function App() {
         <EthanMoliver />
         <DanielChegwidden /> 
         <RuhaabSheikh />
+        <MichaelNguyen /> 
+        <ChristianTorrisi /> 
         <NauvooPerez /> 
         <OllyWilson />
       </header>
