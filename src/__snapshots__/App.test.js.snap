@@ -21,6 +21,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Ethan Moliver | CMD | Spicy char kway teow | Community
     </p>
+    <p>
+      Ruhaab Sheikh | CMD | Biryani | Formula 1: Drive to Survive
+    </p>
   </header>
 </div>
 `;
