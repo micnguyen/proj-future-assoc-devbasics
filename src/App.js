@@ -1,7 +1,10 @@
-import logo from "./logo.svg";
-import "./App.css";
-import { MichaelNguyen } from "./components/MichaelNguyen/MichaelNguyen";
+import logo from './logo.svg';
+import './App.css';
+import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
+import { AdamSchlicht } from './components/AdamSchlicht/AdamSchlicht';
 import { EthanMoliver } from "./components/EthanMoliver/EthanMoliver";
+import { DanielChegwidden } from './components/DanielChegwidden/DanielChegwidden';
+import { RuhaabSheikh } from "./components/RuhaabSheikh/RuhaabSheikh";
 
 function App() {
   return (
@@ -10,7 +13,10 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Name | Mantel Brand | Favourite Food | Last show watched</p>
         <MichaelNguyen />
+        <AdamSchlicht /> 
         <EthanMoliver />
+        <DanielChegwidden /> 
+        <RuhaabSheikh />
       </header>
     </div>
   );
