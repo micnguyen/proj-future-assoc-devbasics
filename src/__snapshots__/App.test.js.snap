@@ -36,6 +36,9 @@ exports[`page renders correctly 1`] = `
     <p>
       Olly Wilson | DigIO | Homemade Pizza | The Book of Boba Fett
     </p>
+    <p>
+      Jarrod Membrey | Digio | Tom Yum Soup | Euphoria
+    </p>
   </header>
 </div>
 `;
