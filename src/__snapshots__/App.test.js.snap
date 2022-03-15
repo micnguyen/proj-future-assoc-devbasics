@@ -19,7 +19,6 @@ exports[`page renders correctly 1`] = `
       Michael Nguyen | DigIO | Steak | Tinder Swindler
     </p>
     <p>
-<<<<<<< HEAD
       Adam Schlicht | Kasna | Sultana Bran | Flight of the Conchords
     </p>
     <p>
@@ -30,9 +29,12 @@ exports[`page renders correctly 1`] = `
     </p>
     <p>
       Ruhaab Sheikh | CMD | Biryani | Formula 1: Drive to Survive
-=======
+    </p>
+    <p>
+      Michael Nguyen | DigIO | Steak | Tinder Swindler
+    </p>
+    <p>
       Christian Torrisi | DigIO | Lasagna | Peaky Blinders
->>>>>>> add-christian
     </p>
   </header>
 </div>
