@@ -3,6 +3,7 @@ import './App.css';
 import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
 import { AdamSchlicht } from './components/AdamSchlicht/AdamSchlicht';
 import { EthanMoliver } from "./components/EthanMoliver/EthanMoliver";
+import { RuhaabSheikh } from "./components/RuhaabSheikh/RuhaabSheikh";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <MichaelNguyen />
         <AdamSchlicht /> 
         <EthanMoliver />
+        <RuhaabSheikh />
       </header>
     </div>
   );
