@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import { MichaelNguyen, JuliaSharnina } from './components/MichaelNguyen/MichaelNguyen';
+import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
+import { JuliaSharnina } from './components/MichaelNguyen/JuliaSharnina';
 
 function App() {
   return (
