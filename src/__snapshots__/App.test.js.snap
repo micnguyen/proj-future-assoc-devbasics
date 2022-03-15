@@ -18,6 +18,18 @@ exports[`page renders correctly 1`] = `
     <p>
       Nauvoo Perez | Kasna | Currently: Bubble Tea | Miss Fisher's Murder Mysteries
     </p>
+    <p>
+      Adam Schlicht | Kasna | Sultana Bran | Flight of the Conchords
+    </p>
+    <p>
+      Ethan Moliver | CMD | Spicy char kway teow | Community
+    </p>
+    <p>
+      Daniel Chegwidden | CMD | Ramen | Business Proposal
+    </p>
+    <p>
+      Ruhaab Sheikh | CMD | Biryani | Formula 1: Drive to Survive
+    </p>
   </header>
 </div>
 `;
