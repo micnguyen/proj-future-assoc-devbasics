@@ -1,6 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
+import logo from "./logo.svg";
+import "./App.css";
+import { MichaelNguyen } from "./components/MichaelNguyen/MichaelNguyen";
+import { OllyWilson } from "./components/OllyWilson/OllyWilson";
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Name | Mantel Brand | Favourite Food | Last show watched</p>
-        <MichaelNguyen /> 
+        <MichaelNguyen />
+        <OllyWilson />
       </header>
     </div>
   );
