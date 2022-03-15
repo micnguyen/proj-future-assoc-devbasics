@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
+import { MichaelNguyen, JuliaSharnina } from './components/MichaelNguyen/MichaelNguyen';
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>Name | Mantel Brand | Favourite Food | Last show watched</p>
         <MichaelNguyen /> 
+        <JuliaSharnina />
       </header>
     </div>
   );
