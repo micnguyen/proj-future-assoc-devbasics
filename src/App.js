@@ -5,6 +5,7 @@ import { AdamSchlicht } from './components/AdamSchlicht/AdamSchlicht';
 import { EthanMoliver } from "./components/EthanMoliver/EthanMoliver";
 import { DanielChegwidden } from './components/DanielChegwidden/DanielChegwidden';
 import { RuhaabSheikh } from "./components/RuhaabSheikh/RuhaabSheikh";
+import { ChristianTorrisi } from './components/ChristianTorrisi/ChristianTorrisi';
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
         <EthanMoliver />
         <DanielChegwidden /> 
         <RuhaabSheikh />
+        <MichaelNguyen /> 
+        <ChristianTorrisi /> 
       </header>
     </div>
   );
