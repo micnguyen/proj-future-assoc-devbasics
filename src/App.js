@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { MichaelNguyen } from './components/MichaelNguyen/MichaelNguyen';
-import { DanielChegwidden } from './components/DanielChegwidden';
+import { DanielChegwidden } from './components/DanielChegwidden/DanielChegwidden';
 
 function App() {
   return (
